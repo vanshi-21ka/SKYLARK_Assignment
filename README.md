@@ -26,6 +26,8 @@ It replaces static reporting with an interactive **AI Decision Workspace**, allo
 * **🔍 Vectorized Filtering & CSV Export:** Search across all board attributes instantly and download filtered operational datasets with a single click.
 
 ---
+Open_API: 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
+API_Token: eyJhbGciOiJIUzI1NiJ9.eyJ0aWQiOjY4NjY0Mzc2MywiYWFpIjoxMSwidWlkIjoxMTE1MDk3NzIsImlhZCI6IjIwMjYtMDctMjdUMDQ6NDg6MjkuNDAxWiIsInBlciI6Im1lOndyaXRlIiwiYWN0aWQiOjM2MjI0NTE2LCJyZ24iOiJhcHNlMiJ9.iETAdcQMj9JjXiMkpby1U-ae1n3mnTCb4x327D0rVYI
 
 ## 🏗️ Tech Stack & Architecture
 
